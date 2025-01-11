@@ -1,4 +1,4 @@
-# My-Helper - an android application
+# GARC - an android application
 
 It can used by any Android Phone to get full access to your phone. Any phone with basic sms feature can be used to access your phone. Suppose your phone got lost or you forgot your mobile at your home then you can do following -
 
