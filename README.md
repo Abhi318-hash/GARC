@@ -39,7 +39,7 @@ HOW TO USE :-
 
 1) Firstly you need to check that my helper is working on your phone or not. For that send the message to your phone number like that :
 
-<img src="https://user-images.githubusercontent.com/38532316/84916430-b6d59b00-b0db-11ea-9914-19068e6b443b.jpg" width="500" height="350"> 
+
 
 If you get reply then it is working fine.
 
@@ -53,7 +53,7 @@ If you get reply then it is working fine.
   
   for example
 
-<img src="https://user-images.githubusercontent.com/38532316/84917577-2304ce80-b0dd-11ea-8b49-20eb01ac4425.png" width="500" height="200"> 
+
 
 <br>
 <br>
