@@ -27,7 +27,7 @@ login page                            |   registration page
 
 Home page                            |   Navigation page
 :-----------------------------------: | :----------------------------------:
-<img src="https://user-images.githubusercontent.com/38532316/84913191-e1bdf000-b0d7-11ea-8ba7-fc98e877064b.png" width="300" height="500"> | <img src="https://user-images.githubusercontent.com/38532316/84915811-e932c880-b0da-11ea-8007-a50d56952511.png" width="300" height="500"> 
+<img src="https://user-images.githubusercontent.com/38532316/84913191-e1bdf000-b0d7-11ea-8ba7-fc98e877064b.png" width="300" height="500"> | <img src="https://github.com/user-attachments/assets/94c44f66-6186-4148-a22a-95c7b4e26649" width="300" height="500"> 
 
 
 <br>
@@ -39,6 +39,7 @@ HOW TO USE :-
 
 1) Firstly you need to check that my helper is working on your phone or not. For that send the message to your phone number like that :
 
+<p align="center"><img src="https://github.com/user-attachments/assets/7dd99741-327b-4565-ba62-3df7c17b7a71" width="300" height="500"></p>
 
 
 If you get reply then it is working fine.
@@ -49,10 +50,10 @@ If you get reply then it is working fine.
 
 2) For getting contact number from your phone contacts, send sms in a given format :
       
-      myhelper &lt;your login password> getcontact &lt;contact name>
+      GARC &lt;your login password> getcontact &lt;contact name>
   
   for example
-
+<p align="center"><img src="https://github.com/user-attachments/assets/6303741b-2d04-4c1a-94c1-feab05ef4d2d" width="300" height="500"></p>
 
 
 <br>
@@ -64,6 +65,6 @@ You can take help like this :
 
 <br>
 <br>
+<p align="center"><img src="https://github.com/user-attachments/assets/71040735-63f7-49d0-86a8-4caa6e78f947" width="300" height="500"></p>
 
-<img src=" width="500" height="700">
 
