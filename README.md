@@ -65,5 +65,5 @@ You can take help like this :
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/38532316/84918561-614ebd80-b0de-11ea-8240-e0ac274d14e1.jpg" width="500" height="700">
+<img src=" width="500" height="700">
 
